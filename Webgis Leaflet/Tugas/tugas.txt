@@ -1,0 +1,5 @@
+buat webgis dengan ketentuan:
+- menggunakan leaflet, buat map berada di tengah web
+- map berisikan informasi rekomendasi kontrakan per kecamatan
+- pada map terdapat arah mata angin, skala, dan pencarian pada kecamatan yang ada
+- pastikan bisa pop up marker pada tiap-tiap poligon yang berisikan nama kecamatan dan nilai rata2nya
